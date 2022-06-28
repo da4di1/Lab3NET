@@ -1,0 +1,10 @@
+D:\source\repos\Lab3NET\Lab3NET\bin\Debug\Lab3NET.exe.config
+D:\source\repos\Lab3NET\Lab3NET\bin\Debug\Lab3NET.exe
+D:\source\repos\Lab3NET\Lab3NET\bin\Debug\Lab3NET.pdb
+D:\source\repos\Lab3NET\Lab3NET\bin\Debug\SystemUnit.dll
+D:\source\repos\Lab3NET\Lab3NET\bin\Debug\SystemUnit.pdb
+D:\source\repos\Lab3NET\Lab3NET\obj\Debug\Lab3NET.csproj.AssemblyReference.cache
+D:\source\repos\Lab3NET\Lab3NET\obj\Debug\Lab3NET.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab3NET\Lab3NET\obj\Debug\Lab3NET.csproj.CopyComplete
+D:\source\repos\Lab3NET\Lab3NET\obj\Debug\Lab3NET.exe
+D:\source\repos\Lab3NET\Lab3NET\obj\Debug\Lab3NET.pdb

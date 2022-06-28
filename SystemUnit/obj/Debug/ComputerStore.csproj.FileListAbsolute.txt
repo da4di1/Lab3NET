@@ -1,0 +1,6 @@
+D:\source\repos\Lab3NET\SystemUnit\bin\Debug\SystemUnit.dll
+D:\source\repos\Lab3NET\SystemUnit\bin\Debug\SystemUnit.pdb
+D:\source\repos\Lab3NET\SystemUnit\obj\Debug\ComputerStore.csproj.AssemblyReference.cache
+D:\source\repos\Lab3NET\SystemUnit\obj\Debug\ComputerStore.csproj.CoreCompileInputs.cache
+D:\source\repos\Lab3NET\SystemUnit\obj\Debug\SystemUnit.dll
+D:\source\repos\Lab3NET\SystemUnit\obj\Debug\SystemUnit.pdb
